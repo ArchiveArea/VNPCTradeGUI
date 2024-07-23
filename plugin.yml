@@ -1,0 +1,8 @@
+---
+name: VNPCTradeGUI
+main: venndev\vnpctradegui\VNPCTradeGUI
+version: 1.0.0
+api: 5.0.0
+author: VennDev
+description: VNPCTradeGUI is a plugin for PocketMine-MP 5
+...

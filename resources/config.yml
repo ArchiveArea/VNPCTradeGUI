@@ -1,0 +1,21 @@
+---
+item-next-page:
+    name: "&aNextPage &f(%page%/&c%max%&f)"
+    lore:
+        - "&7Click to go to the next page"
+
+item-previous-page:
+    name: "&aPreviousPage &f(%page%/&c%max%&f)"
+    lore:
+        - "&7Click to go to the previous page"
+
+lore-addition-item-trade:
+    - "&6"
+    - "&a---------------"
+    - "&6Click to trade!"
+    - "&6"
+    - "&fRequired:"
+    - "&c+ %itemA% x%amountA%"
+    - "&c+ %itemB% x%amountB%"
+    - "&c+ %itemC% x%amountC%"
+...
